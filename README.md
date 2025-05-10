@@ -39,3 +39,13 @@ Created by Angelo Sorte 🚀
 transformers
 pillow
 requests
+
+
+## 📌 About the Author
+
+👤 Angelo Sorte
+
+Passionate AI and ML enthusiast from Italy 🇮🇹, building practical projects and exploring deep learning tools.  
+Connect with me on [LinkedIn](https://www.linkedin.com/in/angelo-sorte) | [email](angelosorte1@gmail.com)
+
+---
